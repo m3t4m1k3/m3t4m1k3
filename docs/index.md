@@ -1,5 +1,8 @@
 # Welcome
 
-## Investment Research
+Hey 👋🏻
 
-[Solar, Wind and Battery](https://www.youtube.com/watch?v=zNdhgOk4-fE)
+## Links
+[Books](https://mcgee.xyz/books)
+[Investing](https://mcgee.xyz/invest)
+[Photography](https://mcgee.xyz/photos)
