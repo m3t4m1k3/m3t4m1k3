@@ -1,3 +1,0 @@
-# Investments
-
-## Research
