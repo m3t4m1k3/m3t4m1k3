@@ -12,8 +12,8 @@ I work with:
 - Firebase
 
 ## Links
-- [GitHub](https://github.com/m3t4m1k3/){:target="_blank"}
-- [LinkedIn](https://www.linkedin.com/in/m3t4m1k3/){:target="_blank"}
+- [GitHub](https://github.com/m3t4m1k3/)
+- [LinkedIn](https://www.linkedin.com/in/m3t4m1k3/)
 
 ## Projects
 
