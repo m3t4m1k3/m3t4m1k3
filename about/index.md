@@ -1,7 +1,7 @@
 # About
 
-- [Home](https://m3t4m1k3.github.io/m3t4m1k3/)
-- [Home 2](../README.md)
+- [Home](../)
+- [Home 2](/)
 
 ---
 
