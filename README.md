@@ -22,5 +22,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut massa vulp
 
 - [Read a longer about me...](https://m3t4m1k3.github.io/m3t4m1k3/about/)
 
-Keep at 26 lines maximum to fit on one screen in Github homescreen and website VH.
+
 ---
