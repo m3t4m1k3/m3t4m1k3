@@ -1,4 +1,5 @@
-# Hi 👋🏻 My name is Mike. I'm Front-end Engineer focused on JavaScript (+Typescript) & React
+# Hi 👋🏻 My name is Mike. I'm a Front-end Engineer
+## I build things with JavaScript/Typescript & React
 
 I work with:
 - HTML
