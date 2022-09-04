@@ -7,9 +7,15 @@ I'm Front-end Engineer.
 I work with:
 - HTML
 - CSS
-- JavaScript
+  - CSS Modules
+  - CSS-in-JS (Styled-Components)
+- JavaScript / TypeScript
   - React
-- Firebase
+  - React Router
+- Testing
+  - Jest
+  - Cypress
+  - React Testing Library
 
 ## Links
 - [GitHub](https://github.com/m3t4m1k3/)
@@ -18,9 +24,5 @@ I work with:
 ## Projects
 
 ## About Me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut massa vulputate, feugiat metus et, dignissim enim. Donec congue diam sapien, et facilisis mi scelerisque eget. Integer efficitur, mauris id mollis hendrerit, nisi libero iaculis velit, ut vulputate dui nisi vitae lorem. Curabitur ut felis bibendum, molestie ipsum quis, lobortis orci. Sed malesuada rutrum dui in aliquet. Fusce in dui eros. Curabitur porttitor malesuada congue.
 
 - [Read a longer about me...](https://m3t4m1k3.github.io/m3t4m1k3/about/)
-
-
----
