@@ -1,5 +1,11 @@
-# Hi 👋🏻 My name is Mike. I'm a Front-end Engineer
-## I build things with JavaScript/Typescript & React
+# Hi, 👋🏻 My name is Mike
+
+## I'm a Front-end Engineer
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 I work with:
 - HTML
